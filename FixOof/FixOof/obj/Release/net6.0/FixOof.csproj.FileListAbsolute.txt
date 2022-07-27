@@ -1,0 +1,15 @@
+C:\Users\ethan\source\repos\FixOof\FixOof\bin\Release\net6.0\FixOof.exe
+C:\Users\ethan\source\repos\FixOof\FixOof\bin\Release\net6.0\FixOof.deps.json
+C:\Users\ethan\source\repos\FixOof\FixOof\bin\Release\net6.0\FixOof.runtimeconfig.json
+C:\Users\ethan\source\repos\FixOof\FixOof\bin\Release\net6.0\FixOof.dll
+C:\Users\ethan\source\repos\FixOof\FixOof\bin\Release\net6.0\ref\FixOof.dll
+C:\Users\ethan\source\repos\FixOof\FixOof\bin\Release\net6.0\FixOof.pdb
+C:\Users\ethan\source\repos\FixOof\FixOof\obj\Release\net6.0\FixOof.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\FixOof\FixOof\obj\Release\net6.0\FixOof.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\source\repos\FixOof\FixOof\obj\Release\net6.0\FixOof.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\FixOof\FixOof\obj\Release\net6.0\FixOof.AssemblyInfo.cs
+C:\Users\ethan\source\repos\FixOof\FixOof\obj\Release\net6.0\FixOof.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\FixOof\FixOof\obj\Release\net6.0\FixOof.dll
+C:\Users\ethan\source\repos\FixOof\FixOof\obj\Release\net6.0\ref\FixOof.dll
+C:\Users\ethan\source\repos\FixOof\FixOof\obj\Release\net6.0\FixOof.pdb
+C:\Users\ethan\source\repos\FixOof\FixOof\obj\Release\net6.0\FixOof.genruntimeconfig.cache
